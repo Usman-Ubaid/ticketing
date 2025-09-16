@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: usmanubaid98/auth:latest
+          image: us.gcr.io/ticketing-dev-471313/auth
         
 ---
 apiVersion: v1 
